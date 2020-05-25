@@ -7,4 +7,4 @@
 
 ## To Use
 - `git clone urlToRepo folderName` 
-- `git init`
+- `rm -rf .git && git init`
